@@ -12,7 +12,7 @@ count = 0
 
 # load the webpage from webscrapping
 html_page = requests.get(url).text
-data = BeautifulSoup(html_page, 'html.parser')
+data = BeautifulSoup(html_page, 'html.parser') # create a BeautifulSoup object to parse the HTML content
 
 # scrap for the required info
 tables = data.find_all('tbody')
