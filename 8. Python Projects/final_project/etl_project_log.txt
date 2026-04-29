@@ -1,0 +1,12 @@
+2026-Apr-28-19:48:23,ETL Job
+2026-Apr-28-19:48:23,Extract phase begins
+2026-Apr-28-19:48:24,Extract phase ended
+2026-Apr-28-19:48:24,Transform phase begins
+2026-Apr-28-19:48:24,Transform phase ended
+2026-Apr-28-19:48:24,Load phase begins
+2026-Apr-28-19:48:24,Load phase ended
+2026-Apr-28-19:48:24,Load to db phase begins
+2026-Apr-28-19:48:24,Load to db phase ended
+2026-Apr-28-19:48:24,Query db phase begins
+2026-Apr-28-19:48:24,Query db phase ended
+2026-Apr-28-19:48:24,ETL Job completed
