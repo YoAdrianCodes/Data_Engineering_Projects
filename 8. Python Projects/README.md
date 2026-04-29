@@ -1,6 +1,6 @@
 # Project Overview
 
-This repository contains multiple projects and scripts organized into different folders. Below is an overview of each folder and its contents:
+This repository contains multiple projects and scripts organized into different folders that demonstrate my skills with python for working with and manipulating data. Below is an overview of each folder and its contents:
 
 ## ETL with Python
 This folder contains scripts and data files for building an ETL (Extract, Transform, Load) pipeline. The pipeline processes data from various sources (CSV, JSON, XML), transforms it, and saves the transformed data. Key files include:
