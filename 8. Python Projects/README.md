@@ -26,3 +26,7 @@ This folder contains a project focused on analyzing GDP data for various countri
 - `Countries_by_GDP.csv`: A dataset listing countries and their GDP in billions of USD.
 - `etl_project_gdp.py`: A script that performs ETL operations on the GDP data, including extracting data from a webpage, transforming it, and loading it into a database.
 - `etl_project_log.txt`: A log file that tracks the progress of the ETL process for the GDP project.
+
+Query screenshot:
+<img width="830" height="322" alt="Screenshot 2026-04-28 at 8 01 10 PM" src="https://github.com/user-attachments/assets/18fcfc39-e9e7-42fe-a032-b18fdfb9a726" />
+
