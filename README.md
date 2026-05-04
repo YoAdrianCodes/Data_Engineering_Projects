@@ -31,3 +31,7 @@
 7. <ins> Data Engineering and Machine Learning with Spark </ins>
 * Use Apache Spark for Data Engineering and Machine Learning 
 * Create a Spark application end-to-end that includes ETL and model training
+
+8. <ins> Python projects </ins>
+
+9. <ins> Relational database fundamentals with mySQL and PostgreSQL </ins>
