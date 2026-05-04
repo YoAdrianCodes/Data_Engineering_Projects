@@ -33,5 +33,9 @@
 * Create a Spark application end-to-end that includes ETL and model training
 
 8. <ins> Python projects </ins>
+* Built an ETL pipeline with Python that extracted data from different file types, transformed the data into the require format. Then saved to a CSV file and ready to be loaded to a RDBMS.
+* Analyze the HTML code of a webpage and use **requests** and **BeautifulSoup** to extract the contents of that webpage. The relevant information will then be saved to a CSV file and loaded to a **SQLite** db
 
 9. <ins> Relational database fundamentals with mySQL and PostgreSQL </ins>
+* Build dbs and tables with mySQL CLI and PostgreSQL/pgAdmin
+* Use database design to create ERDs and understand the conceptual and logical design behind a database before implementing the physical
