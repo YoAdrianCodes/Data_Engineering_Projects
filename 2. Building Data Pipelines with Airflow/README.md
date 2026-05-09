@@ -1,6 +1,5 @@
 ## Description 
-* This project will collect data available in different formats, and consolidate it into a single file
-* Extract data from a CSV, TSV, and fixed width file
+* Built an ETL pipeline with **BashOperator** in Apache Airflow
 
 ![Airflow](airflowImage.png)
 
