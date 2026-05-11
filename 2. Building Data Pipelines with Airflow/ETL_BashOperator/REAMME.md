@@ -1,7 +1,7 @@
 ## Description 
 * Built an ETL pipeline with **BashOperator** in Apache Airflow
 
-![Airflow](airflowImage.png)
+<!-- ![Airflow](airflowImage.png) -->
 
 ### Scenario 
 I am assigned the role of data engineer at a data analytics consulting company and tasked with the following project that aims to decongest the national highways by analyzing the road traffic from different toll plazas.
@@ -9,4 +9,4 @@ Each highway is operated by a different toll operator with different IT setup th
 
 
 ### Apache Airflow UI 
-![AirflowUI](airflowScreenshot.png)
+<!-- ![AirflowUI](airflowScreenshot.png) -->
