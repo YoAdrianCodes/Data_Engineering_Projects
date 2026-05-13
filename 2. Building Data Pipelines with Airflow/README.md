@@ -1,12 +1,13 @@
-## Description 
-* Built an ETL pipeline with **BashOperator** in Apache Airflow
-
 ![Airflow](airflowImage.png)
 
-### Scenario 
-I am assigned the role of data engineer at a data analytics consulting company and tasked with the following project that aims to decongest the national highways by analyzing the road traffic from different toll plazas.
-Each highway is operated by a different toll operator with different IT setup that use different file formats. 
+## Description 
+This directory holds my initial two projects with airflow with both python and bash operators to create a DAG serving as an ETL pipeline.
+
+I used both the airflow UI to gain an understanding on how best to work with airflow regarding the creation of a DAG, operators, logging and monitoring. The CLI with airflow was also used for exploration purposes.
 
 
-### Apache Airflow UI 
-![AirflowUI](airflowScreenshot.png)
+
+## Additional Details
+My python project serves as an ETL job that extracts text data from a .txt file, makes the data csv complicit, and loads that data into a .csv file. 
+
+
