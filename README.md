@@ -39,3 +39,6 @@
 9. <ins> Relational database fundamentals with mySQL and PostgreSQL </ins>
 * Build dbs and tables with mySQL CLI and PostgreSQL/pgAdmin
 * Use database design to create ERDs and understand the conceptual and logical design behind a database before implementing the physical
+
+10. Data Modeling
+* Create fact and dimension tables for both star and snowflake schemas within a data warehouse
