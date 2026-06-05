@@ -1,7 +1,7 @@
 # Project Overview
 This directory contains projects relating to design, modeling and implementation for data warehouses
 
-## Fact and Dimension tables with a Star schema
+## Design and Model for Data Warehouse
 I am assigned the creation of a data warehouse for the provided CSV file with billing data from a cloud service provider. For this exercise the schema will be Star with Fact and Dimension tables, supporting complex queries relating to:
 * Billing by year, month, quarter
 * Average billing per customer
